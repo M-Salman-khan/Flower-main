@@ -1,5 +1,5 @@
 # Flower
-This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
+This repository contains web technologies HTML, SCSS, and JS.
 
 ### Downlode Source code from github
 Using This : 
